@@ -25,7 +25,7 @@ WhiteHat’s API Security Tester is a collection enabling you to automatically t
 ID-DAST requires a license to perform security testing. [Click here](https://www.whitehatsec.com/idd-lap-reg/) and complete the form to obtain a free tiral license.
 
 ### System requirements
-  1) Postman IDE and Docker is installed and running
+  1) Postman IDE v7.18.1+ and Docker is installed and running
   2) The API/application that you wish to test againist is live (e.g. JuiceShop or TiredfulAPI)
   3) And you have the associated API collection you wish to test for security
 
